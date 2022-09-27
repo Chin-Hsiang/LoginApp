@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="btn_login">登入系統</string>
+    <string name="clear_btn">清除重填</string>
+</resources>
